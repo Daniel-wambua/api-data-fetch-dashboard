@@ -2,7 +2,19 @@
 
 A comprehensive, production-ready dashboard that aggregates and visualizes real-time data from multiple public APIs. Built with FastAPI backend and Streamlit frontend featuring a modern, responsive design with fixed header navigation.
 
-## 🚀 Features
+## � Screenshots
+
+<div align="center">
+
+### Dashboard Overview
+![Dashboard Overview](https://github.com/Daniel-wambua/Datapulse/blob/main/images/screenshot1.png?raw=true)
+
+### Data Visualization Interface
+![Data Visualization](https://github.com/Daniel-wambua/Datapulse/blob/main/images/screenshot2.png?raw=true)
+
+</div>
+
+## �🚀 Features
 
 ### 📊 Dashboard Sections
 - **🏠 Overview**: Key metrics and quick insights across all services
@@ -30,7 +42,7 @@ A comprehensive, production-ready dashboard that aggregates and visualizes real-
 ### 1. Clone and Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Daniel-wambua/Datapulse.git
 cd api_dashboard
 
 # Create virtual environment
@@ -337,7 +349,7 @@ services:
 
 ```bash
 # Fork and clone
-git clone your-fork-url
+git clone https://github.com/Daniel-wambua/Datapulse.git
 cd api_dashboard
 
 # Create feature branch
@@ -413,6 +425,4 @@ This project is licensed under the MIT LICENSE. See LICENSE file for details.
 
 **⭐ Star this repository if you find it useful!**
 
-**🚀 Ready to explore real-time data? Visit http://localhost:8501**
-
-Built with ❤️ by havoc using FastAPI, Streamlit, and modern web technologies
+Built with ❤️ by havoc using FastAPI, Streamlit.
