@@ -177,8 +177,8 @@ docker-compose up --build
 - **Visual Polish**: Gradient backgrounds, shadows, and hover effects
 - **Responsive Layout**: Adapts to different screen sizes
 
+> **Backstory**<br>
 ## 📖 API Documentation
-
 ### Crypto Endpoints
 - `GET /crypto/prices` - Current cryptocurrency prices (top 10)
 - `GET /crypto/history/{coin_id}` - Historical price data with charts
@@ -208,7 +208,7 @@ docker-compose up --build
 ### Events Endpoints
 - `GET /events` - Recent application events
 - `POST /events/log` - Log custom event
-
+>
 ## 🔧 Configuration
 
 ### Environment Variables
