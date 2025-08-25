@@ -176,8 +176,9 @@ docker-compose up --build
 - **Smart Spacing**: 160px+ gap between header and navigation
 - **Visual Polish**: Gradient backgrounds, shadows, and hover effects
 - **Responsive Layout**: Adapts to different screen sizes
-
-> **Backstory**<br>
+<details>
+  <summary>Motive (legacy)</summary>
+> **documentatioon**<br>
 ## 📖 API Documentation
 ### Crypto Endpoints
 - `GET /crypto/prices` - Current cryptocurrency prices (top 10)
@@ -208,7 +209,9 @@ docker-compose up --build
 ### Events Endpoints
 - `GET /events` - Recent application events
 - `POST /events/log` - Log custom event
->
+
+<details/>
+  
 ## 🔧 Configuration
 
 ### Environment Variables
